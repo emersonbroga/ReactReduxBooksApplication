@@ -1,0 +1,14 @@
+.container{ margin-top: 32px; }
+
+.book-detail {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee
+}
