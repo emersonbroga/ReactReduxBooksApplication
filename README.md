@@ -6,7 +6,7 @@ http://s3.emerson.link/prints/2016-04-01-000035.mp4
 
 # ReactReduxBooksApplication
 
-This is the result of the React course from Udemy. 
+This is the result of the React course from (SpethenGrider)[https://github.com/StephenGrider] on Udemy. 
 
 ### DEMO ###
 
