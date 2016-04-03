@@ -4,7 +4,7 @@
 
 This is the result of the React course from [SpethenGrider](https://github.com/StephenGrider) on Udemy. 
 
-You can read more about it this project on [medium](https://medium.com/@emersonbroga/javascript-react-redux-c6278ff0d41e#.inxwfjih4) and also on linkedin(https://www.linkedin.com/pulse/javascript-react-redux-emerson-carvalho).
+You can read more about it this project on [medium](https://medium.com/@emersonbroga/javascript-react-redux-c6278ff0d41e#.inxwfjih4) and also on [linkedin](https://www.linkedin.com/pulse/javascript-react-redux-emerson-carvalho).
 
 ### DEMO ###
 
